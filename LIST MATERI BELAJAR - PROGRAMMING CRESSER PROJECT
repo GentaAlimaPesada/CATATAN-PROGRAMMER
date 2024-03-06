@@ -1,11 +1,13 @@
 Masukin list yang mau dipelajari untuk sampai tanggal 15 :
-- Interface
-- Inheritance
-- Event Handler
-- Deklarasi Class
 - Singleton
+- Inheritance
+- Method
+- Passing Variabel antar Class
+- Deklarasi Class
+- Event Handler & Event Handling (Delegate, Event, Action)
+- Unity Editor Variabel FoldOut
+- Service Locator
+- XML Command
+- Inteface
 - State
 - Observer
-- Service Locator
-- Interface
-- XML Command
