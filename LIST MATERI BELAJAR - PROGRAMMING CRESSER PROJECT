@@ -1,6 +1,8 @@
 Masukin list yang mau dipelajari untuk sampai tanggal 15 :
-- Interface
+- Singleton
 - Inheritance
-- Event Handler
+- Method
+- Passing Variabel antar Class
 - Deklarasi Class
-- 
+- Event Handler & Event Handling (Delegate, Event, Action)
+- Unity Editor Variabel FoldOut
